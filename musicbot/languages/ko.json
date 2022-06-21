@@ -7,7 +7,7 @@
     "chart_melon_chart": "**멜론 차트**",
     "chart_billboard_chart": "**빌보드 차트**",
 
-    "help": "**뮤직봇 도움말**",
+    "help": "**아냐봇 도움말**",
     "help_info": "안녕 방가워요! 전 {bot_name} 에요! 아래에 있는 명령어들을 이용해 아냐뮤직봇을 사용해 보세요!",
     "help_general_command": "`{commandInt}도움 일반`",
     "help_music_command": "`{commandInt}도움 음악`",
@@ -22,7 +22,7 @@
     "help_general_about_command": "`{commandInt}정보`",
     "help_general_about_info": "저에 대한 정보를 알려드려요!",
     "help_general_invite_command": "`{commandInt}초대`",
-    "help_general_invite_info": "저랑 다른 서버에서 놀고싶으세요? 당신이 서버의 관리자라면 저를 서버에 초대할 수 있어요!",
+    "help_general_invite_info": "저랑 다른 서버에서 놀고 싶으세요? 당신이 서버의 관리자라면 저를 서버에 초대할 수 있어요!",
     "help_general_java_command": "`{commandInt}자바`",
     "help_general_java_info": "서버에 설치된 자바 버전을 알려드려요!",
     "help_general_softver_command": "`{commandInt}버전`",
