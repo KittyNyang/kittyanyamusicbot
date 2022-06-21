@@ -20,7 +20,7 @@ async def status_task():
             )
             await asyncio.sleep(10)
             await bot.change_presence(
-                activity = discord.Game ("%d개의 키티왕국에서 놀고있어요!" %len(bot.guilds)),
+                activity = discord.Game ("%d개의 피넛왕국에서 놀고있어요!" %len(bot.guilds)),
                 status = discord.Status.online,
                 afk = False
             )
